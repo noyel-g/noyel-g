@@ -1,3 +1,5 @@
+![Banner](https://github.com/noyel-g/noyel-g/blob/main/git_banner.png)
+
 # Hi there, I'm Noyel 👋
 
 🏃 **Runner | 💻 Developer | 🌱 Learner**
