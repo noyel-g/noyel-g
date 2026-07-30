@@ -1,4 +1,4 @@
-![Banner](https://github.com/noyel-g/noyel-g/blob/main/banner_noyel.png)
+![Banner]([https://github.com/noyel-g/noyel-g/blob/main/banner_noyel.png](https://github.com/noyel-g/noyel-g/blob/main/Screenshot%202026-07-31%20003445.png))
 
 # Hi there, I'm Noyel 👋
 
