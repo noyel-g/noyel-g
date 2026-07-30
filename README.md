@@ -1,4 +1,4 @@
-![Banner](https://github.com/noyel-g/noyel-g/blob/main/flower.png)
+![Banner](https://github.com/noyel-g/noyel-g/blob/main/runner.png)
 
 
 # Hi there, I'm Noyel 👋
