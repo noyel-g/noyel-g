@@ -1,4 +1,4 @@
-![Banner](https://github.com/noyel-g/noyel-g/blob/main/Untitled.svg)
+![Banner](https://github.com/noyel-g/noyel-g/blob/main/Untitled (1).svg)
 
 
 
