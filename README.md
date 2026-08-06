@@ -1,7 +1,5 @@
 ![Banner](https://github.com/noyel-g/noyel-g/blob/main/noyel.svg)
 
-<br>
-
 # Hi, I'm Noyel 👋
 
 **Java & Spring Developer**
