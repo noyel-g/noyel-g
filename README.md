@@ -1,4 +1,6 @@
-<div align="center">![Banner](https://github.com/noyel-g/noyel-g/blob/main/noyel.svg)</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/noyel-g/noyel-g/main/noyel.svg" alt="Noyel George" width="450">
+</div>
 # Hi, I'm Noyel 👋
 
 ### Java & Spring Developer
