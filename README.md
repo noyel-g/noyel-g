@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/noyel-g/noyel-g/main/noyel.svg" alt="Noyel George" width="450">
+  <img src="https://raw.githubusercontent.com/noyel-g/noyel-g/main/noyel.svg" alt="Noyel George">
 </div>
 # Hi, I'm Noyel 👋
 
